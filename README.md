@@ -1,1 +1,1 @@
-This is my first CRUDE basci project when i was learning MERN
+This is my first basic CRUDE project when i was learning MERN

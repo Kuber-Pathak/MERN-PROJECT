@@ -1,4 +1,4 @@
-import mongoose, { mongo } from "mongoose";
+import mongoose from "mongoose";
 
 const dbUserName = process.env.DB_USER_NAME;
 const dbPassword = encodeURIComponent(process.env.DB_PASSWORD);
